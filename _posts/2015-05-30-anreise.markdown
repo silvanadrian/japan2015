@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anreise"
-date:   2015-05-29 07:40:00
+date:   2015-05-30 07:40:00
 categories: Kyoto
 ---
 
@@ -14,6 +14,6 @@ Schlussendlich konnten wir dann endlich denn Zug nach Shinagawa besteigen und no
 
 Kurz vor 3Uhr sind wir schliesslich in Kyoto angekommen und suchten gleich noch nach einem ATM, das geniale dabei war noch, dass an den japanischen ATMs nur japanische Karten akzeptiert wurde (bei der 7 Bank gings dann -> Bank von 7-11).
 
-Danach noch einen kurzen Fussmarsch zu unserem Ryokan (Matsubaya), bei welchem wir dann endlich einchecken konnten und uns mal ein klein wenig Ruhe gönnen.
+Danach noch einen kurzen Fussmarsch zu unserem Ryokan (Matsubaya), bei welchem wir dann endlich einchecken konnten und uns mal ein klein wenig Ruhe gönnten.
 
 ![Matsubaya Ryokan](/japan2015/content/images/2015/05/image.jpg)

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Fakten zur Reise"
+date:   2015-06-24 20:00:00
+categories: Zürich
+---
+
+Dauer: 26 tage
+Städte: Kyoto,Osaka,Hiroshima,Beppu,Tokyo (6 verschiedene Hotels)
+
+![](/japan2015/content/images/2015/06/traveldestinations.png)
+
+<!-- Die Beschreibungen zu den einzelnen Städten und was wir angesehen haben findet ihr hier:
+
+Kyoto: http://japan.zonk.io/tag/kyoto/
+
+Osaka: http://japan.zonk.io/tag/osaka/
+
+Hiroshima: http://japan.zonk.io/tag/hiroshima/
+
+Beppu: http://japan.zonk.io/tag/beppu/
+
+Tokyo: http://japan.zonk.io/tag/tokyo/ -->

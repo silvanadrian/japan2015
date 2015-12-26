@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /japan2015
-domain_name: 'http://silvanadrian.ch'
+domain_name: 'http://silvanadrian.ch/japan2015/'
 
 # Details for the RSS feed generator
 url:            'http://silvanadrian.ch/japan2015'

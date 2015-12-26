@@ -6,7 +6,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /japan2015
 domain_name: 'http://silvanadrian.ch/japan2015'
 
 # Details for the RSS feed generator

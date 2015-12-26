@@ -11,3 +11,4 @@ domain_name: 'http://silvanadrian.ch/japan2015/'
 
 # Details for the RSS feed generator
 url:            'http://silvanadrian.ch/japan2015'
+author: 'Silvan Adrian'

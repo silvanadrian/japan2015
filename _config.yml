@@ -1,0 +1,14 @@
+name: Japan Travelblog
+description: Blog about travelling in Japan
+meta_description: "Japan Travelblog"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://silvanadrian.ch/japan2015'
+
+# Details for the RSS feed generator
+url:            'http://silvanadrian.ch/japan2015'
+author:         'Silvan Adrian'
